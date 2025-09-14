@@ -11,3 +11,8 @@ EasyAttend is a full-stack mobile application designed to simplify attendance tr
 - **Real-time Registration**: Attendance is recorded instantly upon a successful scan, providing hosts with real-time updates.
 - **Geofencing**: To ensure authenticity, attendance registration is restricted by location. Users must be within a predetermined radius of the event's location to successfully check in.
 
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|:-----------:|:-----------:|:-----------:|
+| <img width="1080" height="2400" alt="Screenshot_1747059423" src="https://github.com/user-attachments/assets/9886fa3c-af63-4ae8-8d3e-a8712b34acfc" /> | <img width="1080" height="2400" alt="Screenshot_1747059426" src="https://github.com/user-attachments/assets/bf799588-584a-4be8-8179-7d6e928f55f4" />
+ | <img width="1080" height="2400" alt="Screenshot_1747059465" src="https://github.com/user-attachments/assets/54fbe005-53f6-4991-aac0-d642b07755ec" />
+ |
